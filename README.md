@@ -1,2 +1,2 @@
-# classification_DL_X-Ray
+# classification deep learning - X-Ray Data Lungs
  
